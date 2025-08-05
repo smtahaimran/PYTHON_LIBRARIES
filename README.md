@@ -114,6 +114,6 @@ pt.show()
 - This foundational knowledge is key for further exploration into data science and analytics.
 
 
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/smtahaimran)
+- **LinkedIn**: [(www.linkedin.com/in/smtahaimran)]
 
 Thank you for your interest in this project!
