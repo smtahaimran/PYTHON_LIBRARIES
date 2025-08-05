@@ -88,7 +88,7 @@ print(df.tail(5))
 
 - Creating basic plots and line graphs
 - Customizing lines, points, and markers for clarity
-  ![MATPLOTLIB](Figure1.png)
+  ![MATPLOTLIB](Figure_1.png)
 
 
 ### Seaborn
