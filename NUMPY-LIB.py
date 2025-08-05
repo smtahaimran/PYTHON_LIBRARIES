@@ -22,7 +22,8 @@ print(lst4[1]+lst4[2])   # FOR ADDITION
 #......................................
 
 lst5=np.array([4,5,6,7])
-print(lst5[2:4])   #FOR SLICINHG
+print(lst5[2:4])   #FOR SLICING
 
 #........................................
+
 
